@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'oZnwayVx',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -34,10 +34,10 @@ global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "agungbahtiar421@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285794583615'] //premium user
-global.owner = ["6285794583615","6285709420641"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285794583615" // nomor wa kalian
-global.ownernomerr = "+6285709420641" //nmr wa kalian
+global.premium = ['62895406419364'] //premium user
+global.owner = ["62895406419364","6285709420641"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "62895406419364" // nomor wa kalian
+global.ownernomerr = "+62895406419364" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
